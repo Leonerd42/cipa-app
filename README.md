@@ -1,11 +1,10 @@
-# cipa-app
+# Cipe Violência
 Aplicativo desenvolvido com  Ionic + Angular, para auxiliar estudantes de enfermagem a diagnosticar abusos com crianças e ajudar com as escolhas de tratamento efetivo.
 
 # Tecnologias
 * Ionic 4
 * Angular 7
 
-# Projetos exemplo - Ionic 4
-* https://github.com/ionicthemes/ionic4-starter-app/tree/master/src/app
-* https://github.com/ionic-team/ionic-conference-app
-* https://github.com/codedamn/social-media-app-ionic4/
+# Disponivel nas lojas 
+* [Apple Store](https://apps.apple.com/br/app/cipe-violencia/id1482577896)
+* [Play Store](https://play.google.com/store/apps/details?id=cipeViolencia.ltia)
