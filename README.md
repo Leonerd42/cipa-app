@@ -1,5 +1,5 @@
 # cipa-app
-Descrição aqui.
+Aplicativo desenvolvido com  Ionic + Angular, para auxiliar estudantes de enfermagem a diagnosticar abusos com crianças e ajudar com as escolhas de tratamento efetivo.
 
 # Tecnologias
 * Ionic 4
